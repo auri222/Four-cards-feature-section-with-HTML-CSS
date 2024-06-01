@@ -34,7 +34,7 @@ _2. Mobile design_
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Four card feature section page](https://auri222.github.io/Four-cards-feature-section-with-HTML-CSS/)
+- Live Site URL: [Four cards feature section page](https://auri222.github.io/Four-cards-feature-section-with-HTML-CSS/)
 
 ## My process
 
